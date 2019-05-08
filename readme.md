@@ -4,8 +4,9 @@ The Java coding challenge
 We would like you to develop a “guess a word” game, also known as Hangman game (info).
 Requirements
 
-Rules:
-------
+Rules
+-----
+
 1. The application must be capable of handling multiple game sessions at the same time.
 2. In the context of a single game session the player can see how many characters the word
 has and can guess up to 9 times if a letter appears in the secret word.
@@ -22,7 +23,9 @@ Ideally the application will be written in Java and will be using the Spring Boo
 REST endpoints to interact with the game engine.
 
 Make sure that the code is production ready (leaving to the reader the interpretation of this point).
+
 Time
+----
 
 We haven’t set a time limit for completing this challenge however we would like you not to spend
 more than 2 hour in total on it, as this would be the average time that our internal developers
