@@ -1,4 +1,4 @@
-:The Java coding challenge
+The Java coding challenge
 -------------------------
 
 We would like you to develop a “guess a word” game, also known as Hangman game [info](https://en.wikipedia.org/wiki/Hangman_(game))
