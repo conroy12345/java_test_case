@@ -35,5 +35,4 @@ would spend to get the job done cleanly.
 
 Submitting
 ----------
-Please create a private GIT repository with your code and share with
-carlo.carbone@theexchangelab.com, so we can review ahead of the final interview.
+Please create a private GIT repository with your code and share with the email address that will be provided so we can review ahead of the final interview.
